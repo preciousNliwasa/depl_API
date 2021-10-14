@@ -1,0 +1,12 @@
+fastapi
+sqlalchemy
+pydantic
+typing
+sqlite3
+passlib
+uvicorn
+gunicorn == 19.9.0
+multipart
+bcrypt
+uvloop
+httptools
